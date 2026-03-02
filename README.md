@@ -50,7 +50,7 @@ Place it in the root folder as `online_retail.csv` before running.
 - **Python** — Core language
 - **Pandas** — Data manipulation
 - **Scikit-learn** — K-Means clustering
-- **Matplotlib & Seaborn** — Visualization
+- **Matplotlib** — Visualization
 
 ---
 
