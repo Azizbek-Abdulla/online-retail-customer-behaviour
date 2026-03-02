@@ -56,5 +56,5 @@ Place it in the root folder as `online_retail.csv` before running.
 
 ## 👤 Author
 **Azizbek Abdullayev**  
-[LinkedIn](https://www.linkedin.com/in/azizbek-abdullayev-852b1439b/)) · [GitHub](https://github.com/Azizbek-Abdulla)
+[LinkedIn](https://www.linkedin.com/in/azizbek-abdullayev-852b1439b/) · [GitHub](https://github.com/Azizbek-Abdulla)
 
